@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shermale Om Gorakhnath, a passionate MERN Stack developer and third-year engineering student. I enjoy building full-stack web applications using MongoDB, Express.js, React, and Node.js, and I’m continuously improving my skills by working on real-world projects. I have a strong interest in backend development, problem-solving, and creating scalable, user-friendly solutions. Currently, I am focused on enhancing my development skills, contributing to projects, and preparing for exciting opportunities in the tech industry.<br>
+I am Shermale Om Gorakhnath, a passionate MERN Stack developer and Final-year engineering student. I enjoy building full-stack web applications using MongoDB, Express.js, React, and Node.js, and I’m continuously improving my skills by working on real-world projects. I have a strong interest in backend development, problem-solving, and creating scalable, user-friendly solutions. Currently, I am focused on enhancing my development skills, contributing to projects, and preparing for exciting opportunities in the tech industry.<br>
 
 
 ## 🌐 Socials:
